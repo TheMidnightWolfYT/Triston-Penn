@@ -1,10 +1,10 @@
 // Example portfolio data
 const portfolioData = [
     {
-        title: "Project Title",
+        title: "Much Ado About Nothing",
         year: "2023",
-        role: "Lead Actor",
-        description: "Brief description of the project.",
+        role: "Dogberry, and Gaspar",
+        description: "Much Ado About Nothing is a comedy by William Shakespeare thought to have been written in 1598 and 1599. The play was included in the First Folio, published in 1623. The play is set in Messina and revolves around two romantic pairings that emerge when a group of soldiers arrive in the town.",
         image: "url-to-image.jpg"
     },
     // Add more projects here
