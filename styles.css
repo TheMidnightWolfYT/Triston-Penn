@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: #333;
+    color: #fff;
+}
+
+.footer {
+    padding: 10px 0;
+    color: #aaa;
+}
